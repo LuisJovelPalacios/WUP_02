@@ -66,3 +66,5 @@ The chance of getting a result like this is .00000003405 meaning that the chance
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+When comparing C39 and C52 it shows the boxplot showing that C52 is way higher the C39 because of the boxplot showing a significant difference. The C52 box is higher then the box of the C39 box. This means that C52 is significant more different than C39. Because C39 has a value of 54.75 which is is lower than the Q1 for C52 which is 58. which means its significantly different that there is a very very small chance of them being similar .00000003405 to be exact.
