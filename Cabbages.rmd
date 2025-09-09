@@ -41,6 +41,8 @@ I looked at the data and after looking threw i figured i had a numerical categor
 plot(VitC~Cult,data=veggy)
 ```
 
+This means that amount of the vitamin c content that is dependent upon the cultivation. The C52 box is higher that the too of the C39 box. This means that C52 is significant more different than C39.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
