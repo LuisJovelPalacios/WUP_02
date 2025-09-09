@@ -61,6 +61,8 @@ The Q3 for C39 has a value of 54.75 which is is lower than the Q1 for C52 which 
 t.test(VitC~Cult,data=veggy)
 ```
 
+The chance of getting a result like this is .00000003405 meaning that the chances of them being alike at all is extremely unlikely. 
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
